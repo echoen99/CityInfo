@@ -96,7 +96,7 @@ namespace CityInfo.API.Controllers
             {
                 ModelState.AddModelError("Description", "The provided description should be different than the name.");
             }
-
+            
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
