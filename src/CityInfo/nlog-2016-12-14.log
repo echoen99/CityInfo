@@ -1,0 +1,11 @@
+2016-12-14 01:33:16.2485|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:1028/  
+2016-12-14 01:33:16.2485|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:1028/  0
+2016-12-14 01:33:16.4532|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 254.633ms 200 
+2016-12-14 01:33:16.7069|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 528.3518ms 404 text/plain
+2016-12-14 01:33:16.7410|INFO|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HL13M1KRA2CH" communication error
+2016-12-14 01:33:22.5922|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:1028/api/cities/5/pointsofinterest  
+2016-12-14 01:33:22.7782|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CityInfo.API.Controllers.PointsOfInterestController.GetPointsOfInterest (CityInfo) with arguments (5) - ModelState is Valid
+2016-12-14 01:33:22.8109|FATAL|CityInfo.API.Controllers.PointsOfInterestController|Exception while getting points of interest for city with id 5.
+2016-12-14 01:33:22.8396|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-12-14 01:33:22.8647|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CityInfo.API.Controllers.PointsOfInterestController.GetPointsOfInterest (CityInfo) in 190.8994ms
+2016-12-14 01:33:22.8752|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 282.6758ms 500 text/plain; charset=utf-8
