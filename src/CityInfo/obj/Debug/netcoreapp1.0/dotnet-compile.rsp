@@ -62,6 +62,8 @@
 --reference:C:\Users\YNA\.nuget\packages\Microsoft.Extensions.Configuration\1.0.0\lib\netstandard1.1\Microsoft.Extensions.Configuration.dll
 --reference:C:\Users\YNA\.nuget\packages\Microsoft.Extensions.Configuration.Abstractions\1.1.0\lib\netstandard1.0\Microsoft.Extensions.Configuration.Abstractions.dll
 --reference:C:\Users\YNA\.nuget\packages\Microsoft.Extensions.Configuration.EnvironmentVariables\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+--reference:C:\Users\YNA\.nuget\packages\Microsoft.Extensions.Configuration.FileExtensions\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Configuration.FileExtensions.dll
+--reference:C:\Users\YNA\.nuget\packages\Microsoft.Extensions.Configuration.Json\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Configuration.Json.dll
 --reference:C:\Users\YNA\.nuget\packages\Microsoft.Extensions.DependencyInjection\1.1.0\lib\netstandard1.1\Microsoft.Extensions.DependencyInjection.dll
 --reference:C:\Users\YNA\.nuget\packages\Microsoft.Extensions.DependencyInjection.Abstractions\1.1.0\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 --reference:C:\Users\YNA\.nuget\packages\Microsoft.Extensions.DependencyModel\1.1.0\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll
@@ -188,3 +190,6 @@ C:\Users\YNA\documents\visual studio 2015\Projects\CityInfo\src\CityInfo\Models\
 C:\Users\YNA\documents\visual studio 2015\Projects\CityInfo\src\CityInfo\Models\PointOfInterestDto.cs
 C:\Users\YNA\documents\visual studio 2015\Projects\CityInfo\src\CityInfo\Models\PointOfInterestForCreationDto.cs
 C:\Users\YNA\documents\visual studio 2015\Projects\CityInfo\src\CityInfo\Models\PointOfInterestForUpdateDto.cs
+C:\Users\YNA\documents\visual studio 2015\Projects\CityInfo\src\CityInfo\Services\CloudMailService.cs
+C:\Users\YNA\documents\visual studio 2015\Projects\CityInfo\src\CityInfo\Services\IMailService.cs
+C:\Users\YNA\documents\visual studio 2015\Projects\CityInfo\src\CityInfo\Services\LocalMailService.cs
